@@ -1,7 +1,0 @@
-Here is the place where you can find the data for the RealRec test set in the paper.
-There are two directory, 3b53 and 3b54, which means this test set are recorded in two real rooms.
-In each directory, four sub-directories are included: AWPE, NN_based_RRS, Unprocessed, WF_based_RRS;
-Unprocessed: the unprocessed original recordings and the wav files are zipped.
-AWPE: Processed wav files based on the plain AWPE algorithm described in the paper.
-WF_based_RRS: Processed wav files based on the AWPE+WF-RRS algorithm described in the paper.
-NN_based_RRS: Processed wav files based on the AWPE+NN-RRS algorithm described in the paper.
